@@ -1,2 +1,0 @@
-# Gnps
-Educational website
